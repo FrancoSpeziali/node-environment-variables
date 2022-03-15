@@ -53,7 +53,7 @@ npm i dotenv
 2. Import the dotenv package
 
 ```javascript
-const dotenv = require('dotenv');
+import dotenv = from 'dotenv';
 ```
 
 ## Task 4 - .env
