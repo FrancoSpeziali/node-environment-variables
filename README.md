@@ -70,24 +70,9 @@ import dotenv from 'dotenv';
 
 > Notice: There is a `.` at the start of the filename. This is on purpose.
 
-2. Add the values you previously added to `process.env` into this file
-
-The format must be as follows:
-
-```text
-{key} = {value}
-```
+2. Add the values you previously added to `process.env` into the `.env` file
 
 3. Remove the changes you made to `process.env`. We no longer need them.
-
-##### Example
-
-```text
-NAME = franco
-```
-
-- Add these properties into the .env file
-- read them with console.log
 
 ## Task 5 - Configuring .env
 
