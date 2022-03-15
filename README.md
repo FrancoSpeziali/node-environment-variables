@@ -38,9 +38,17 @@ For the following tasks, we are going to use the `dotenv` package
 
 In order to do that, we must make some changes to our application
 
-- Run the command `npm init -y`
+1. Run the command `npm init -y`
 
 > Note: The `-y` flag just tells the `npm` command to not bug you with annoying questions!
+
+2. Add the following line to your `package.json` file;
+
+```json
+"type": "module"
+```
+
+> Note: This is so that you can use ES6 modules inside node.js applications
 
 ## Task 3 - Installing dotenv
 
