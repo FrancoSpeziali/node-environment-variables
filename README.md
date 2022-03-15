@@ -61,7 +61,7 @@ npm i dotenv
 2. Import the dotenv package
 
 ```javascript
-import dotenv = from 'dotenv';
+import dotenv from 'dotenv';
 ```
 
 ## Task 4 - .env
