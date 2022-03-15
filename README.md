@@ -72,6 +72,12 @@ import dotenv from 'dotenv';
 
 2. Add the values you previously added to `process.env` into the `.env` file
 
+##### Example
+```text
+KEY = value
+SERVER_NAME = Papagei 5000
+```
+
 3. Remove the changes you made to `process.env`. We no longer need them.
 
 ## Task 5 - Configuring .env
